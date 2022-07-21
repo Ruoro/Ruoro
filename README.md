@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Ruoro</h1>
 <h3 align="center"> Data Scientist </h3>
 
-- 🌱 I’m currently learning AWS and devops
+- 🌱 I’m currently learning AWS, CDK, Terraform and devops
 - 💬 Ask me about data (I love to tinker)
 - 📫 How to reach me **ruorojohn@gmail.com**
 - ⚡ Fun fact **People say I am funny**
