@@ -8,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/john-ruoro-3769b614b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="johnruoro" height="30" width="40" /></a>
-</p>
-
+<a href="https://www.linkedin.com/in/john-ruoro-3769b614b/">
+  <img align="left" alt="Grayce's LinkedIn" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
+ </a>
 
 
 
