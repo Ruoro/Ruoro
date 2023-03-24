@@ -48,3 +48,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruoro&show_icons=true&locale=en" alt="Ruoro" /></p>
 
 
+![snake gif](https://github.com/Ruoro/Ruoro/blob/output/github-contribution-grid-snake.gif)
