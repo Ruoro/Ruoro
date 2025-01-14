@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruoro&show_icons=true&locale=en" alt="Ruoro" /></p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/JonSnow.png" alt="Badge" align="center" />
-<!-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=26986" style='border:none;'></iframe> -->
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=26986" style='border:none;'></iframe>
 
