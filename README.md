@@ -22,6 +22,16 @@ console.log(window[k](a) + window[k](i));
 - Exploring **correlation, regime shifts, and structure** across markets, data, and models
 
 
+## 🔍 Research & Exploration
+
+- LLM internals and controlled fine-tuning on domain-specific data
+- Adblock detection & bypass mechanics (from a defensive perspective)
+- Structured learning of mathematics from first principles
+
+
+> I care about understanding *why* systems work — and where they break.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/john-ruoro-3769b614b/">
@@ -43,9 +53,9 @@ console.log(window[k](a) + window[k](i));
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruoro&show_icons=true&locale=en&layout=compact" alt="Ruoro" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruoro&show_icons=true&locale=en&layout=compact" alt="Ruoro" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruoro&show_icons=true&locale=en" alt="Ruoro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruoro&show_icons=true&locale=en" alt="Ruoro" /></p> -->
 <img src="https://tryhackme-badges.s3.amazonaws.com/JonSnow.png" alt="Badge" align="center" />
 <!-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=26986" style='border:none;'></iframe> -->
 
