@@ -12,9 +12,9 @@ var a = 'cnVvcm9qb2hu';
 var i = 'hwQGdtYWlsLmNvbQ==';
 
 console.log(window[k](a) + window[k](i));
-</details>
-```
 
+```
+</details>
 ## 🧭 Current Focus
 
 - Designing **AI systems** with clear problem formulation, evaluation, and failure analysis
