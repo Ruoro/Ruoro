@@ -7,11 +7,11 @@
 <summary>📫 Contact</summary>
 
 ```js
-var k = 'atob';
+var k = 'atob'; 
 var a = 'cnVvcm9qb2hu';
-var i = 'hwQGdtYWlsLmNvbQ==';
-
-console.log(window[k](a) + window[k](i));
+var i = 'QGdtYWlsLmNvbQ==';
+var snow = window[k](a) + window[k](i);
+console.log(snow);
 
 ```
 </details>
@@ -59,11 +59,3 @@ console.log(window[k](a) + window[k](i));
 <img src="https://tryhackme-badges.s3.amazonaws.com/JonSnow.png" alt="Badge" align="center" />
 <!-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=26986" style='border:none;'></iframe> -->
 
-Contact
-```javascript
-var k = 'atob'; 
-var a = 'cnVvcm9qb2hu';
-var i = 'QGdtYWlsLmNvbQ==';
-var snow = window[k](a) + window[k](i);
-console.log(snow);
-```
