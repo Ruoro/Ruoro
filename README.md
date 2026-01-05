@@ -1,10 +1,26 @@
-<h1 align="center">Hi 👋, I'm John Ruoro</h1>
-<h3 align="center"> Data Scientist </h3>
+<h1 align="center">Hi, I'm John Ruoro 👋</h1>
+<p align="center">
+  Builder of systems • Security-minded • AI & ML practitioner
+</p>
 
-- 🌱 I’m currently learning AWS, CDK, Terraform and devops
-- 💬 Ask me about data and python (I love to tinker)
-- 📫 How to reach me **ruorojohn@gmail.com**
-- ⚡ Fun fact **People say I am funny**
+<details>
+<summary>📫 Contact</summary>
+
+```js
+var k = 'atob';
+var a = 'cnVvcm9qb2hu';
+var i = 'hwQGdtYWlsLmNvbQ==';
+
+console.log(window[k](a) + window[k](i));
+</details>
+```
+
+## 🧭 Current Focus
+
+- Designing **AI systems** with clear problem formulation, evaluation, and failure analysis
+- Applying **security-first thinking** to ML pipelines and browser-based systems
+- Exploring **correlation, regime shifts, and structure** across markets, data, and models
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
