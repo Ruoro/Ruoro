@@ -14,22 +14,6 @@
 </br>
 
 
-<!--
-**Ruoro/Ruoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h3 align="left">🛠 Languages and Tools:</h3>
 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -49,3 +33,11 @@ Here are some ideas to get you started:
 <img src="https://tryhackme-badges.s3.amazonaws.com/JonSnow.png" alt="Badge" align="center" />
 <!-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=26986" style='border:none;'></iframe> -->
 
+Contact
+```javascript
+var k = 'atob'; 
+var a = 'cnVvcm9qb2hu';
+var i = 'QGdtYWlsLmNvbQ==';
+var snow = window[k](a) + window[k](i);
+console.log(snow);
+```
